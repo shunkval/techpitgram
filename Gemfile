@@ -71,7 +71,7 @@ gem 'jquery-rails'
 gem 'devise', '~> 4.7.1'
 
 # carrierwaveをインストール
-gem 'carrierwave', '~> 1.0'
+gem 'carrierwave', '~> 1.3'
 
 # MiniMagickをインストール
 gem "mini_magick"
